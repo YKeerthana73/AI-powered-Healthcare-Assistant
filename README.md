@@ -25,6 +25,7 @@ To run this project locally, you need to have the following installed:
 - **Streamlit**
 - **Pandas**
 - **transformers**
+- ** nltk**
 - **tensorflow and keras**
 
 ## Installation Instructions
